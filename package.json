@@ -1,0 +1,8 @@
+{
+  "name": "http_server",
+  "author": "Cam Cecil <ctcecil@gmail.com>",
+  "dependencies": {
+    "debug": "^2.1.1",
+    "mime": "^1.3.4"
+  }
+}
